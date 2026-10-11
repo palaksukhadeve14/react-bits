@@ -76,8 +76,7 @@ Open the local URL shown in your terminal. To run another project, navigate to i
 
 ## 🌱 What's Next?
 
-React Bits is an evolving collection of projects. As I explore more React concepts, I'll continue adding new implementations, experimenting with different approaches, and strengthening my frontend development fundamentals.
-
+ As I explore more React concepts, I'll continue adding new implementations, experimenting with different approaches.
 ---
 
 *Learning by building, one project at a time.*
